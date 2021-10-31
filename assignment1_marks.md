@@ -14,9 +14,9 @@ mark: 6/6
 **Question 3**
 mark: 1/2
 
-**feedback :** program has non-linear runtime.
+**feedback :** program has non-linear runtime. -2 for adding the course account after the deadline.
 
 **Final grade**
-mark: 9.0/10.0
+mark: 7.0/10.0
 
-summary: 20848004,z7sheng,9.0/10.0
+summary: 20848004,z7sheng,7.0/10.0
